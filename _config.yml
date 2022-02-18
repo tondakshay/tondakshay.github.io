@@ -39,8 +39,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/IMG_20201129_213941-removebg-preview-removebg-preview.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+  Software Developer with 3+ years of industry experience in designing, coding and maintaining large scale softwares primarily
+  in C++/C and Python in the Electronic Design and Automation (EDA) industry. Currently researching the fields of Machine
+  Learning and Computer Vision through multiple courses and looking for software roles in overlapping fields of Vision, Robotics
+  and Data-Science in ML, which leverage my theoretical knowledge and end-to-end product life-cycle expertise.
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
  #   - Lists
   #  - Tables
