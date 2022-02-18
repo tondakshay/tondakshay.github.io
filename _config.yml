@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
  #   - Lists
   #  - Tables
    # - <a href="google.com">Links</a>
-  # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -64,11 +64,11 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - Images ![alt text](/images/game.png)
         quote: >
           
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+      - Imagefile: /images/game.png 
   - title: 
     layout: list
     content:
