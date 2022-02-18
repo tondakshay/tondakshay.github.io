@@ -72,6 +72,25 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
+    content:
+      - layout: Right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Co-tuning for Transfer Learning
+        link: https://github.com/tondakshay/cotuning
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: 
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: 
     layout: list
     content:
