@@ -71,7 +71,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          An interactive game where the bot learns on the fly using Reinforcement Learning.
 
     content:
       - layout: Right
