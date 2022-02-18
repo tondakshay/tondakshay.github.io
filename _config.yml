@@ -64,8 +64,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - Images ![alt text](/images/game.png)
         quote: >
-          /images/game.png
+          
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: 
