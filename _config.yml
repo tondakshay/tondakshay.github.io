@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Akshay Tondak
-title: Graduate Student at University of michigan, Ann Arbor
+title: Machine Learning Master's Student at University of michigan, Ann Arbor
 email: akshayt@umich.edu
 # email_title: Email (Email title override)
 
@@ -54,12 +54,12 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Reinforcement Learning based Interacive Game
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: images/game.png
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -68,27 +68,31 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: 
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title:  Mentor Graphics, A Siemens Business
+        sub_title: Senior Member of Technical Staff
+        caption: July 2018 - July 2021
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Worked with mentor's Mixed signal solution Symphony which is industry’s fastest and most configurable 
+          mixed-signal solution to accurately verify design functionality, connectivity,
+          and performance across A/D interfaces at all levels of the design hierarchy and for all IC applications.
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: University of Michigan, Ann Arbor
+        sub_title: Masters in Signal and Image Processing and Machine Learning
+        caption: August 2021 - Present
         quote: >
-          Short institution or course description (optional)
+          Relevant Coursework: Computational Data Science and Machine Learning Lab(EECS-605), CSE Machine Learning (EECS-545), Matrix
+          Methods in Machine Learning (EECS-551), Mobile Robotics (EECS-568), Analysis of Social Networks (EECS-544)
+          Graduate Grader — Graded courses EECS-545 (Machine Learning), EECS-216 (Signals and Systems)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
